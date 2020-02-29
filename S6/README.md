@@ -95,12 +95,12 @@ Below are the Accuracy and Loss graphs for Training using L1 and L2 regularisati
 Also , I see that as we go for smaller weight decay, accuracy increases.
 
 Accuracy
-  ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S6/Session_6/L1_misclassified/L1%20weight%20decay%20Model%20Accuracy%20For%20Training%20Data.png?raw=true)
-  ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S6/Session_6/L2_misclassified/L2%20weight%20decay%20Model%20Accuracy%20For%20Training%20Data.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S6/Session_6/L1_misclassified/L1%20weight%20decay%20Model%20Accuracy%20For%20Training%20Data.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S6/Session_6/L2_misclassified/L2%20weight%20decay%20Model%20Accuracy%20For%20Training%20Data.png?raw=true)
 
 
 Loss
-  ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S6/Session_6/L1_misclassified/L1%20weight%20decay%20Model%20loss%20For%20Training%20Data.png?raw=true)
-  ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S6/Session_6/L2_misclassified/L2%20weight%20decay%20Model%20loss%20For%20Training%20Data.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S6/Session_6/L1_misclassified/L1%20weight%20decay%20Model%20loss%20For%20Training%20Data.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S6/Session_6/L2_misclassified/L2%20weight%20decay%20Model%20loss%20For%20Training%20Data.png?raw=true)
 
   
