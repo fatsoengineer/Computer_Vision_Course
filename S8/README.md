@@ -1,10 +1,10 @@
-Changes from Session 7:
+# Changes from Session 7:
 * > Removed the scheduler
   
   > Added  two more image augmentation technique as before that, the training accuracy was going to 97-98%, whereas the validation accuracy stagnated at 75% - 78%
 
 
-Logs
+# Logs
 ```
   0%|          | 0/782 [00:00<?, ?it/s]EPOCH:1
 Loss=1.4917231798171997 Batch_id=781 Accuracy=45.75: 100%|██████████| 782/782 [00:59<00:00, 13.19it/s]
@@ -107,3 +107,13 @@ Loss=0.3272002935409546 Batch_id=781 Accuracy=94.15: 100%|███████�
 Test set: Average loss: 0.0058, Accuracy: 8937/10000 (89.37%)
 
 ```
+
+# Graphs
+
+## Accuracy Graph
+
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S8/Train%20Model%20Accuracy.png?raw=true)
+
+## Loss Graph
+
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S8/Train%20Model%20Loss.png?raw=true)
