@@ -1,3 +1,43 @@
+# Loss Graph
+![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/Loss%20Graph.png?raw=true)
+
+
+# Accuracy Graph
+![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/Accuracy%20Graph.png?raw=true)
+
+
+# GradCam for few Misclassiied Images
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam1.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam2.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam3.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam4.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam5.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam6.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam7.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam8.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam9.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam10.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam11.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam12.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam13.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam14.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam15.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam16.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam17.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam18.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam19.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam20.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam21.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam23.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam24.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam25.png?raw=true)
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S10/additional_files/GradCam26.png?raw=true)
+
+
+# Final Test Accuracy 
+>  91.51% 
+
+> Total Epochs: 50
 
 # Logs
 ```

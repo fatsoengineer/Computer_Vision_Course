@@ -1,3 +1,29 @@
+# Loss Graph
+![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S9/S9_assignment/additonal_files/Loss%20Graph.png?raw=true)
+
+
+# Accuracy Graph
+![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S9/S9_assignment/additonal_files/Accuracy%20Graph.png?raw=true)
+
+
+# GradCam for few images
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S9/S9_assignment/additonal_files/GradCam1.png?raw=true) 
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S9/S9_assignment/additonal_files/GradCam3.png?raw=true)
+
+* ![alt text](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S9/S9_assignment/additonal_files/GradCam2.png?raw=true)
+
+
+
+# Code File Paths
+> * [Albumentations](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S9/S9_assignment/vision/train/utils/transformations.py) 
+> * [GradCam](https://github.com/fatsoengineer/Computer_Vision_Course/blob/master/S9/S9_assignment/vision/train/utils/gradCam.py) 
+
+
+# Final Test Accuracy 
+>  89.48% 
+
+> Total Epochs: 25
+
 
 # Logs
 ```
